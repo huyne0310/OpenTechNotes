@@ -1,4 +1,4 @@
-# OpenTechNotes
+# OpenTechNotes | CODE4LIFE® Technology
 
 > Open-source technical notes and learning resources for developers and IT learners.
 
